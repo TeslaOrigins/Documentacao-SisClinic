@@ -1,6 +1,6 @@
 # Repositório de Diagramas e Figuras - TCC
 
-Este repositório foi criado para armazenar os diagramas e figuras referentes ao Trabalho de Conclusão de Curso (TCC) intitulado **Desenvolvimento do Back-end do SisClinic - Um Sistema de Gerenciamento de Pacientes para Clínicas Escolas**.
+Este repositório foi criado para armazenar os diagramas e figuras referentes ao Trabalho de Conclusão de Curso (TCC) intitulado **Desenvolvimento do SisClinic - Um Sistema de Gerenciamento de Pacientes para Clínicas Escolas**.
 
 ## Autores
 
